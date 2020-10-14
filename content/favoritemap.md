@@ -6,4 +6,4 @@ nav_order: 11
 
 # My Favorite Map
 
-![Twisty Mississippi](img/fav-map.pmg)
+![Twisty Mississippi](img/fav-map.png)
