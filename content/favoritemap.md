@@ -4,7 +4,7 @@ title: Jon's Favorite Map
 nav_order: 2.5
 ---
 
-#My own text
+# My own text
 
 Phil and Evan's little code sample doesn't run.
 
