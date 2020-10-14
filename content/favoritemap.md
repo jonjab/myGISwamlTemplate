@@ -1,8 +1,12 @@
 ---
 layout: default
 title: Jon's Favorite Map
-nav_order: 11
+nav_order: 2.5
 ---
+
+#My own text
+
+Phil and Evan's little code sample doesn't run.
 
     win_tiger.client = camera_sprite(transistor + layout_cd, rte_firewall +
             softwareCase);
